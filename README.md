@@ -17,6 +17,7 @@ An python multitools that's will be updated at least 1 time a week
 <p align="center"><i>✔️ All the library i use :</i></p>
 
 * Requests
+* Colorama
 ---
 <p align="center"><strong><i>⚠️ Important information :</i></strong</p>
 
