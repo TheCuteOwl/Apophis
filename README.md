@@ -4,7 +4,26 @@
 
 An python multitools that's will be updated at least 1 time a week 
 
+  -----
+  -V1 Update-
+  
+  ## Discord Tools
+- [x] Discord Webhook Spammer/Deleter
+- [x] Nitro generator (Unchecked)
+- [x] ID to Token (First Part)
+- [ ] Token Grabber Maker 
+- [ ] RAT Maker 
+- [ ] Searching for other stuff... (if you have any suggestions go to issues and open one)
 
+  ## Information Tools
+- [x] Social media account hunter
+- [x] Ip locate
+- [ ] Searching for other stuff...(if you have any suggestions go to issues and open one)
+
+  ## Random Stuff
+ - [ ] translation into other languages (Mainly Spanish, French, and other country with latin language
+ - [ ] Searching for other stuff...(if you have any suggestions go to issues and open one)
+  -----
 <p align="center"><strong><i>⚠️ To make the program work you need to install this :</i></strong</p>
 <br><br>
 
